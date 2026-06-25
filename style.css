@@ -6,7 +6,7 @@ html {
   background: fixed white;
   border:3px goldenrod solid;
   text-align: center;
-  list-style-position: inside;
+  list-style-position:inside;
   width: 50%;
   margin: 0 auto;
   display: block; /* this is why it wasn't centering */
